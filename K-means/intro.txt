@@ -1,0 +1,2 @@
+k-means method for deciding similar words in ABC news.
+Initially 1000 samples used. Resulted in 3 clusters.
